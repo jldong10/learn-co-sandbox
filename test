@@ -1,0 +1,5 @@
+var word = 'bird'
+
+function sayHello() {
+  console.log('Hello!')
+}
